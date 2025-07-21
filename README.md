@@ -50,7 +50,7 @@ cat ~/.ssh/id_ed25519.pub
 
 **Tu clave pública generada es:**
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILcz4AqdBIP1JHZRVIBgzec8ZSuiPigHy33cprhG+Viy kfflores96@gmail.com
+ssh-ed25519 PPPPC3NzaJ1lZQE1NTE5MMMMILcz4AqdBIE1JHZRVIBgzec5ZSuiJigHy21cprhG+Qit kfflores96@gmail.com
 ```
 
 ---
